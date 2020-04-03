@@ -58,6 +58,9 @@ Rumors have been spreading of a pink haired Xaela collecting stories of the peop
 ### Tribal
 Li is a Xaela from the Haragin tribe. If you are also from the steppes, you may have met her, or know her tribe.
 
+### Kugane / Far East RP
+Li spent some time in Kugane, and even if it was not the best, she did have some freedom. It's a large city, maybe you ran into her at a bar, or both happened to witness the same event. 
+
 ### Anything else!
 I am up for just about any story, so feel free to suggest just about anything else
 
@@ -68,6 +71,10 @@ I am up for just about any kind of story, from Dark and Mature to cutesy and sli
 ### A Note on long term RP
 
 I love long term rps, as I feel they really give a chance to tell an interesting story and lead to some cool development. To that end, long term rps will be mostly siloed off into their own version of Li, so that the stories can move at whatever pace they need to. This does mean that most of what happens in an active long term RP won't have a direct impact on Li, but events may be mentioned as having happened. It also allows for each individual version to go for more semi-permanent changes, so I feel the trade offs are worth it. 
+
+### Lore Adherence
+
+I am super up for bending the lore of the world for cool events, and making sure that characters can bring in whatever makes them special. Having said that, the majority of Li's character is based pretty strongly in normal ffxiv lore, with a few tweaks to the Haragin tribe since we know so little about them. Because of this, her (and my) default assumption is that this is the world we are operating in, and will continue to think that unless it is otherwise shown or told to her.
 
 ### Contact
 

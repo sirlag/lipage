@@ -40,6 +40,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       [
         "vuepress",
         "npm:1.4.0"
+      ],
+      [
+        "vuepress-plugin-smooth-scroll",
+        "npm:0.0.9"
       ]
     ],
     "locationBlacklistData": [
@@ -51,7 +55,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@vuepress/plugin-active-header-links", "npm:1.4.0"],
             ["@vuepress/plugin-back-to-top", "npm:1.4.0"],
-            ["vuepress", "npm:1.4.0"]
+            ["vuepress", "npm:1.4.0"],
+            ["vuepress-plugin-smooth-scroll", "npm:0.0.9"]
           ],
           "linkType": "SOFT",
         }]
@@ -9686,7 +9691,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["root-workspace-0b6124", "workspace:."],
             ["@vuepress/plugin-active-header-links", "npm:1.4.0"],
             ["@vuepress/plugin-back-to-top", "npm:1.4.0"],
-            ["vuepress", "npm:1.4.0"]
+            ["vuepress", "npm:1.4.0"],
+            ["vuepress-plugin-smooth-scroll", "npm:0.0.9"]
           ],
           "linkType": "SOFT",
         }]
@@ -11471,6 +11477,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/vuepress-plugin-smooth-scroll-npm-0.0.3-bce6865d42-2.zip/node_modules/vuepress-plugin-smooth-scroll/",
           "packageDependencies": [
             ["vuepress-plugin-smooth-scroll", "npm:0.0.3"],
+            ["smoothscroll-polyfill", "npm:0.4.4"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:0.0.9", {
+          "packageLocation": "./.yarn/cache/vuepress-plugin-smooth-scroll-npm-0.0.9-60147de6ea-2.zip/node_modules/vuepress-plugin-smooth-scroll/",
+          "packageDependencies": [
+            ["vuepress-plugin-smooth-scroll", "npm:0.0.9"],
             ["smoothscroll-polyfill", "npm:0.4.4"]
           ],
           "linkType": "HARD",

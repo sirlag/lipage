@@ -8490,6 +8490,7 @@ fsevents@^1.2.7:
     "@vuepress/plugin-active-header-links": ^1.4.0
     "@vuepress/plugin-back-to-top": ^1.4.0
     vuepress: ^1.4.0
+    vuepress-plugin-smooth-scroll: ^0.0.9
   languageName: unknown
   linkType: soft
 
@@ -8782,7 +8783,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"smoothscroll-polyfill@npm:^0.4.3":
+"smoothscroll-polyfill@npm:^0.4.3, smoothscroll-polyfill@npm:^0.4.4":
   version: 0.4.4
   resolution: "smoothscroll-polyfill@npm:0.4.4"
   checksum: 2/a2643f711caad9d31ff181c3be976430c32dfcc4c46d5652b86b4166ea8f3693341c0a61f13d57e93b803ac05ccb1a8e30830581686c5d125ab2875ff2fd0bce
@@ -10069,6 +10070,15 @@ fsevents@^1.2.7:
   dependencies:
     smoothscroll-polyfill: ^0.4.3
   checksum: 2/7452530b7a0ab68a4e5d2f1f87e649193be5fab87b3c5f85f613cd69697727808ef0618868f0c2eec40b17df27f894001e485f6d87c632a20b46b025c3b34b9e
+  languageName: node
+  linkType: hard
+
+"vuepress-plugin-smooth-scroll@npm:^0.0.9":
+  version: 0.0.9
+  resolution: "vuepress-plugin-smooth-scroll@npm:0.0.9"
+  dependencies:
+    smoothscroll-polyfill: ^0.4.4
+  checksum: 2/cf0976707f22bb7f8bcfa1f472f8edcb79e9234e17c8b47ef8800aa84156107f845e537b37f49281b8e0b8790ba0be390ba2052ee42d78333769aec9d9aa07ae
   languageName: node
   linkType: hard
 
