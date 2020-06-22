@@ -1,5 +1,6 @@
 .yarn
 .vscode
 .vuepress
+~/docs/.vuepress
 node_modules
 yarn-error.log

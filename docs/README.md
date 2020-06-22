@@ -66,9 +66,10 @@ I am up for just about any story, so feel free to suggest just about anything el
 
 ## Art
 
-![A portrait of Li](./li_portrait.jpg)
-
-
+<figure>
+        <img src="./li_portrait.jpg" alt=""/>
+        <figcaption>A portrait of Li by <a href="https://artistsnclients.com/people/Dean">Dean</a></figcaption>
+</figure>
 
 ## OOC Notes
 

@@ -4,6 +4,8 @@
     "@vuepress/plugin-active-header-links": "^1.5.2",
     "@vuepress/plugin-back-to-top": "^1.5.2",
     "@vuepress/plugin-google-analytics": "^1.5.2",
+    "@vuepress/plugin-medium-zoom": "^1.5.2",
+    "markdown-it-imsize": "^2.0.1",
     "vuepress": "^1.5.2"
   },
   "scripts": {
