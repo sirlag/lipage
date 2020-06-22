@@ -64,6 +64,12 @@ Li spent some time in Kugane, and even if it was not the best, she did have some
 ### Anything else!
 I am up for just about any story, so feel free to suggest just about anything else
 
+## Art
+
+![A portrait of Li](./li_portrait.jpg)
+
+
+
 ## OOC Notes
 
 I am up for just about any kind of story, from Dark and Mature to cutesy and slice of life. My number one rule for RPing is to make sure everyone is a) comfortable and b) having a good time, so if anything in a scene is making you uncomfortable, please /tell me rather than try and force yourself through it.

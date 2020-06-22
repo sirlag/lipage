@@ -1,2 +1,5 @@
 .yarn
 .vscode
+.vuepress
+node_modules
+yarn-error.log

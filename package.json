@@ -1,11 +1,10 @@
 {
-  "dependencies": {
-    "vuepress": "^1.4.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.4.0",
-    "@vuepress/plugin-back-to-top": "^1.4.0",
-    "vuepress-plugin-smooth-scroll": "^0.0.9"
+    "@vuepress/plugin-active-header-links": "^1.5.2",
+    "@vuepress/plugin-back-to-top": "^1.5.2",
+    "@vuepress/plugin-google-analytics": "^1.5.2",
+    "vuepress": "^1.5.2"
   },
   "scripts": {
     "dev": "vuepress dev docs",
