@@ -71,6 +71,11 @@ I am up for just about any story, so feel free to suggest just about anything el
         <figcaption>A portrait of Li by <a href="https://artistsnclients.com/people/Dean">Dean</a></figcaption>
 </figure>
 
+<figure>
+        <img src="./floral.png" alt=""/>
+        <figcaption>A floral portrait by <a href="https://akevikun.carrd.co/">Akevikun</a></figcaption>
+</figure>
+
 ## OOC Notes
 
 I am up for just about any kind of story, from Dark and Mature to cutesy and slice of life. My number one rule for RPing is to make sure everyone is a) comfortable and b) having a good time, so if anything in a scene is making you uncomfortable, please /tell me rather than try and force yourself through it.
